@@ -1,0 +1,4 @@
+enum Chimera {
+  convex,
+  concave;
+}
